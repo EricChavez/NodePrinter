@@ -15,6 +15,8 @@ NodePrinter
   
 
      npm install printer --target_arch=x64
+     
+     mpm install 
       
      npm install pm2 -g     
 
