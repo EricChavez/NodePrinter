@@ -1,0 +1,16 @@
+{
+  "name": "softvprinter",
+  "version": "1.0.0",
+  "description": "test for printing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "eacg",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "printer": "^0.2.2"
+  }
+}
