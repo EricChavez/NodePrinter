@@ -1,6 +1,9 @@
     * NodePrinter*
 
     instalar estas dependencias
+    
+    tener ya instalado visual studio 2015
+    
 
     Visual C++ 2015 Build Tools   http://landinghub.visualstudio.com/visual-cpp-build-tools
 
