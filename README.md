@@ -25,4 +25,7 @@
 
      pm2 start app.js
 
-    
+    **iniciar automaticamente en windows
+    crear -archivo bat despues crear acceso directo y pegarlo 
+    en el directorio 
+   shell:common startup //
